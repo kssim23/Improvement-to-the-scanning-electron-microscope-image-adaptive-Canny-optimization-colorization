@@ -1,4 +1,4 @@
-# Improvement-to-the-scanning-electron-microscope-image-adaptive-Canny-optimization-colorization
+# Improvement to the scanning electron microscope image adaptive Canny optimization colorization by pseudo-mapping
 
 Improvement to the scanning electron microscope image adaptive Canny optimization colorization by pseudo-mapping
 
